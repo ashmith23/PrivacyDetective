@@ -1,0 +1,11 @@
+{
+    "score": "33.3%",
+    "leaked_trackers": [
+        "aax.amazon-adsystem.com",
+        "s.amazon-adsystem.com",
+        "config.aps.amazon-adsystem.com",
+        "c.amazon-adsystem.com"
+    ],
+    "overhead_detected": [],
+    "suspicious_unique": []
+}

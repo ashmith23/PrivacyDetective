@@ -1,0 +1,30 @@
+domain,category,mode
+clients2.google.com,Unclassified Tracker,reject
+accounts.google.com,Unclassified Tracker,reject
+www.google.com,Unclassified Tracker,reject
+www.nytimes.com,Unclassified Tracker,reject
+static01.nyt.com,Unclassified Tracker,reject
+static01.nytimes.com,Unclassified Tracker,reject
+g1.nyt.com,Unclassified Tracker,reject
+a.et.nytimes.com,Unclassified Tracker,reject
+www.googletagmanager.com,Unclassified Tracker,reject
+pagead2.googlesyndication.com,Marketing/Advertising,reject
+www.datadoghq-browser-agent.com,Spyware/Fingerprinting,reject
+eg.nytimes.com,Unclassified Tracker,reject
+als-svc.nytimes.com,Unclassified Tracker,reject
+samizdat-graphql.nytimes.com,Unclassified Tracker,reject
+browser-intake-datadoghq.com,Spyware/Fingerprinting,reject
+vp.nyt.com,Unclassified Tracker,reject
+dd.nytimes.com,Unclassified Tracker,reject
+a.nytimes.com,Unclassified Tracker,reject
+purr.nytimes.com,Unclassified Tracker,reject
+pay.google.com,Unclassified Tracker,reject
+a1.nyt.com,Unclassified Tracker,reject
+google.com,Unclassified Tracker,reject
+www.gstatic.com,Functional,reject
+optimizationguide-pa.googleapis.com,Functional,reject
+play.google.com,Unclassified Tracker,reject
+android.clients.google.com,Unclassified Tracker,reject
+ep1.adtrafficquality.google,Unclassified Tracker,reject
+afaa178e75a7e85d37839fbe19eb579e.safeframe.googlesyndication.com,Marketing/Advertising,reject
+ep2.adtrafficquality.google,Unclassified Tracker,reject
