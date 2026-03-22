@@ -1,40 +1,18 @@
-domain,category,mode
-clients2.google.com,Unclassified Tracker,accept
-www.google.com,Unclassified Tracker,accept
-accounts.google.com,Unclassified Tracker,accept
-www.nytimes.com,Unclassified Tracker,accept
-static01.nyt.com,Unclassified Tracker,accept
-static01.nytimes.com,Unclassified Tracker,accept
-g1.nyt.com,Unclassified Tracker,accept
-samizdat-graphql.nytimes.com,Unclassified Tracker,accept
-als-svc.nytimes.com,Unclassified Tracker,accept
-www.datadoghq-browser-agent.com,Spyware/Fingerprinting,accept
-www.googletagmanager.com,Unclassified Tracker,accept
-pagead2.googlesyndication.com,Marketing/Advertising,accept
-a.et.nytimes.com,Unclassified Tracker,accept
-vp.nyt.com,Unclassified Tracker,accept
-eg.nytimes.com,Unclassified Tracker,accept
-dd.nytimes.com,Unclassified Tracker,accept
-purr.nytimes.com,Unclassified Tracker,accept
-a.nytimes.com,Unclassified Tracker,accept
-pay.google.com,Unclassified Tracker,accept
-a1.nyt.com,Unclassified Tracker,accept
-google.com,Unclassified Tracker,accept
-www.gstatic.com,Functional,accept
-play.google.com,Unclassified Tracker,accept
-optimizationguide-pa.googleapis.com,Functional,accept
-android.clients.google.com,Unclassified Tracker,accept
-securepubads.g.doubleclick.net,Marketing/Advertising,accept
-ep1.adtrafficquality.google,Unclassified Tracker,accept
-cm.g.doubleclick.net,Marketing/Advertising,accept
-a31d8749049b22d22b5c15978989251c.safeframe.googlesyndication.com,Marketing/Advertising,accept
-ep2.adtrafficquality.google,Unclassified Tracker,accept
-tpc.googlesyndication.com,Marketing/Advertising,accept
-fonts.googleapis.com,Functional,accept
-www.googleadservices.com,Marketing/Advertising,accept
-cdn.doubleverify.com,Unclassified Tracker,accept
-nyt-dti-prd-staticjs.storage.googleapis.com,Functional,accept
-tps.doubleverify.com,Unclassified Tracker,accept
-tps-dn-ae1.doubleverify.com,Unclassified Tracker,accept
-tpsc-ae1.doubleverify.com,Unclassified Tracker,accept
-www.googletagservices.com,Unclassified Tracker,accept
+domain,category,mode,load_time,size_bytes
+clients2.google.com,Unclassified Tracker,accept,-0.23,0
+accounts.google.com,Unclassified Tracker,accept,-0.0,0
+www.google.com,Unclassified Tracker,accept,0.1,49
+cdn.jsdelivr.net,Functional,accept,4.89,33205
+in8cdn.npfs.co,Inferred: Infrastructure (Functional),accept,4.95,2419
+cdnjs.cloudflare.com,Functional,accept,4.96,18859
+www.googletagmanager.com,Unclassified Tracker,accept,6.89,175486
+connect.facebook.net,Marketing/Advertising,accept,7.19,96657
+track.nopaperforms.com,Spyware/Fingerprinting,accept,7.35,4624
+widgets.in8.nopaperforms.com,Unclassified Tracker,accept,7.36,1453
+snap.licdn.com,Marketing/Advertising,accept,9.58,18883
+stats.g.doubleclick.net,Marketing/Advertising,accept,9.64,0
+analytics.google.com,Analytics,accept,9.64,0
+www.google.co.in,Unclassified Tracker,accept,9.66,42
+optimizationguide-pa.googleapis.com,Functional,accept,9.75,2567
+px.ads.linkedin.com,Marketing/Advertising,accept,9.99,0
+s.w.org,Unclassified Tracker,accept,14.71,0

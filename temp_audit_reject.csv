@@ -1,30 +1,46 @@
-domain,category,mode
-clients2.google.com,Unclassified Tracker,reject
-accounts.google.com,Unclassified Tracker,reject
-www.google.com,Unclassified Tracker,reject
-www.nytimes.com,Unclassified Tracker,reject
-static01.nyt.com,Unclassified Tracker,reject
-static01.nytimes.com,Unclassified Tracker,reject
-g1.nyt.com,Unclassified Tracker,reject
-a.et.nytimes.com,Unclassified Tracker,reject
-www.googletagmanager.com,Unclassified Tracker,reject
-pagead2.googlesyndication.com,Marketing/Advertising,reject
-www.datadoghq-browser-agent.com,Spyware/Fingerprinting,reject
-eg.nytimes.com,Unclassified Tracker,reject
-als-svc.nytimes.com,Unclassified Tracker,reject
-samizdat-graphql.nytimes.com,Unclassified Tracker,reject
-browser-intake-datadoghq.com,Spyware/Fingerprinting,reject
-vp.nyt.com,Unclassified Tracker,reject
-dd.nytimes.com,Unclassified Tracker,reject
-a.nytimes.com,Unclassified Tracker,reject
-purr.nytimes.com,Unclassified Tracker,reject
-pay.google.com,Unclassified Tracker,reject
-a1.nyt.com,Unclassified Tracker,reject
-google.com,Unclassified Tracker,reject
-www.gstatic.com,Functional,reject
-optimizationguide-pa.googleapis.com,Functional,reject
-play.google.com,Unclassified Tracker,reject
-android.clients.google.com,Unclassified Tracker,reject
-ep1.adtrafficquality.google,Unclassified Tracker,reject
-afaa178e75a7e85d37839fbe19eb579e.safeframe.googlesyndication.com,Marketing/Advertising,reject
-ep2.adtrafficquality.google,Unclassified Tracker,reject
+domain,category,mode,load_time,size_bytes
+clients2.google.com,Unclassified Tracker,reject,-0.25,0
+accounts.google.com,Unclassified Tracker,reject,-0.02,0
+www.google.com,Unclassified Tracker,reject,0.03,49
+g1.nyt.com,Marketing/Advertising,reject,1.87,6360
+static01.nyt.com,Marketing/Advertising,reject,1.93,90
+static.chartbeat.com,Marketing/Advertising,reject,2.69,0
+www.datadoghq-browser-agent.com,Spyware/Fingerprinting,reject,2.74,0
+rumcdn.geoedge.be,Inferred: Infrastructure (Functional),reject,2.79,0
+pagead2.googlesyndication.com,Marketing/Advertising,reject,2.79,34731
+warp.media.net,Unclassified Tracker,reject,2.85,197210
+c.amazon-adsystem.com,Marketing/Advertising,reject,2.85,0
+www.googletagmanager.com,Unclassified Tracker,reject,2.96,192824
+mab.chartbeat.com,Marketing/Advertising,reject,3.59,734
+hbx.media.net,Unclassified Tracker,reject,3.96,12146
+aax.amazon-adsystem.com,Marketing/Advertising,reject,4.17,180
+prebid.media.net,Unclassified Tracker,reject,4.52,0
+grid-bidder.criteo.com,Marketing/Advertising,reject,4.52,0
+htlb.casalemedia.com,Marketing/Advertising,reject,4.53,115
+tlx.3lift.com,Marketing/Advertising,reject,4.56,0
+rtb.openx.net,Marketing/Advertising,reject,4.57,53
+hbopenbid.pubmatic.com,Marketing/Advertising,reject,4.59,0
+fastlane.rubiconproject.com,Marketing/Advertising,reject,4.62,609
+cs.media.net,Unclassified Tracker,reject,4.71,14
+s.amazon-adsystem.com,Marketing/Advertising,reject,5.13,0
+vp.nyt.com,Marketing/Advertising,reject,5.15,10
+config.aps.amazon-adsystem.com,Marketing/Advertising,reject,6.16,531
+js-sec.indexww.com,Marketing/Advertising,reject,8.31,0
+nytimes-d.openx.net,Marketing/Advertising,reject,8.42,0
+eus.rubiconproject.com,Marketing/Advertising,reject,8.47,224
+ads.pubmatic.com,Marketing/Advertising,reject,8.47,7259
+eb2.3lift.com,Marketing/Advertising,reject,8.48,0
+pay.google.com,Unclassified Tracker,reject,8.77,0
+google.com,Unclassified Tracker,reject,9.5,223
+token.rubiconproject.com,Marketing/Advertising,reject,9.74,7
+a1.nyt.com,Marketing/Advertising,reject,9.74,65
+optimizationguide-pa.googleapis.com,Functional,reject,9.76,2567
+hbxlp.media.net,Unclassified Tracker,reject,10.08,43
+www.gstatic.com,Functional,reject,10.1,56430
+play.google.com,Unclassified Tracker,reject,11.6,131
+android.clients.google.com,Unclassified Tracker,reject,39.59,0
+ep1.adtrafficquality.google,Unclassified Tracker,reject,50.8,13475
+ca689fe36801c0166f42d02830072d0f.safeframe.googlesyndication.com,Marketing/Advertising,reject,50.9,3121
+ep2.adtrafficquality.google,Unclassified Tracker,reject,51.54,7609
+update.googleapis.com,Functional,reject,60.08,4448
+clientservices.googleapis.com,Functional,reject,62.84,22
