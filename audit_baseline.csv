@@ -1,7 +1,0 @@
-Domain,Category,Mode
-clients2.google.com,TRACKER_VIOLATION,baseline
-accounts.google.com,TRACKER_VIOLATION,baseline
-www.google.com,TRACKER_VIOLATION,baseline
-is1-ssl.mzstatic.com,TRACKER_VIOLATION,baseline
-android.clients.google.com,TRACKER_VIOLATION,baseline
-optimizationguide-pa.googleapis.com,INFRA_CDN,baseline

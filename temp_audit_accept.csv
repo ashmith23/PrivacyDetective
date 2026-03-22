@@ -1,18 +1,21 @@
 domain,category,mode,load_time,size_bytes
-clients2.google.com,Unclassified Tracker,accept,-0.23,0
-accounts.google.com,Unclassified Tracker,accept,-0.0,0
-www.google.com,Unclassified Tracker,accept,0.1,49
-cdn.jsdelivr.net,Functional,accept,4.89,33205
-in8cdn.npfs.co,Inferred: Infrastructure (Functional),accept,4.95,2419
-cdnjs.cloudflare.com,Functional,accept,4.96,18859
-www.googletagmanager.com,Unclassified Tracker,accept,6.89,175486
-connect.facebook.net,Marketing/Advertising,accept,7.19,96657
-track.nopaperforms.com,Spyware/Fingerprinting,accept,7.35,4624
-widgets.in8.nopaperforms.com,Unclassified Tracker,accept,7.36,1453
-snap.licdn.com,Marketing/Advertising,accept,9.58,18883
-stats.g.doubleclick.net,Marketing/Advertising,accept,9.64,0
-analytics.google.com,Analytics,accept,9.64,0
-www.google.co.in,Unclassified Tracker,accept,9.66,42
-optimizationguide-pa.googleapis.com,Functional,accept,9.75,2567
-px.ads.linkedin.com,Marketing/Advertising,accept,9.99,0
-s.w.org,Unclassified Tracker,accept,14.71,0
+clients2.google.com,Unclassified Tracker,accept,-0.25,0
+accounts.google.com,Unclassified Tracker,accept,0.01,0
+www.google.com,Unclassified Tracker,accept,0.03,49
+1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com,Functional,accept,0.66,0
+m.media-amazon.com,Unclassified Tracker,accept,3.39,0
+images-eu.ssl-images-amazon.com,Unclassified Tracker,accept,3.76,25221
+content-autofill.googleapis.com,Functional,accept,6.15,45
+d231gvmk20yd16.cloudfront.net,Functional,accept,6.47,2
+player.live-video.net,Unclassified Tracker,accept,6.47,0
+p47r3qkl5raepa5flsczs7khqq.appsync-realtime-api.eu-west-1.amazonaws.com,Functional,accept,6.84,0
+unagi-eu.amazon.com,Unclassified Tracker,accept,6.99,22
+p47r3qkl5raepa5flsczs7khqq.appsync-api.eu-west-1.amazonaws.com,Functional,accept,7.05,0
+d17dupcd3sd4s8.cloudfront.net,Functional,accept,7.05,982
+optimizationguide-pa.googleapis.com,Functional,accept,9.93,2567
+metrics.media-amazon.com,Inferred: Performance (Analytics),accept,10.65,0
+images-na.ssl-images-amazon.com,Unclassified Tracker,accept,12.06,3114
+aax-eu.amazon-adsystem.com,Marketing/Advertising,accept,12.69,0
+c.amazon-adsystem.com,Marketing/Advertising,accept,12.89,0
+unagi-na.amazon.com,Unclassified Tracker,accept,14.23,22
+android.clients.google.com,Unclassified Tracker,accept,15.5,0

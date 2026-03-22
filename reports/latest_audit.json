@@ -6,119 +6,140 @@
             "domain": "clients2.google.com",
             "category": "Unclassified Tracker",
             "mode": "accept",
-            "load_time": "-0.23",
+            "load_time": "-0.25",
             "size_bytes": "0"
         },
         {
             "domain": "accounts.google.com",
             "category": "Unclassified Tracker",
             "mode": "accept",
-            "load_time": "-0.0",
+            "load_time": "0.01",
             "size_bytes": "0"
         },
         {
             "domain": "www.google.com",
             "category": "Unclassified Tracker",
             "mode": "accept",
-            "load_time": "0.1",
+            "load_time": "0.03",
             "size_bytes": "49"
         },
         {
-            "domain": "cdn.jsdelivr.net",
+            "domain": "1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com",
             "category": "Functional",
             "mode": "accept",
-            "load_time": "4.89",
-            "size_bytes": "33205"
-        },
-        {
-            "domain": "in8cdn.npfs.co",
-            "category": "Inferred: Infrastructure (Functional)",
-            "mode": "accept",
-            "load_time": "4.95",
-            "size_bytes": "2419"
-        },
-        {
-            "domain": "cdnjs.cloudflare.com",
-            "category": "Functional",
-            "mode": "accept",
-            "load_time": "4.96",
-            "size_bytes": "18859"
-        },
-        {
-            "domain": "www.googletagmanager.com",
-            "category": "Unclassified Tracker",
-            "mode": "accept",
-            "load_time": "6.89",
-            "size_bytes": "175486"
-        },
-        {
-            "domain": "connect.facebook.net",
-            "category": "Marketing/Advertising",
-            "mode": "accept",
-            "load_time": "7.19",
-            "size_bytes": "96657"
-        },
-        {
-            "domain": "track.nopaperforms.com",
-            "category": "Spyware/Fingerprinting",
-            "mode": "accept",
-            "load_time": "7.35",
-            "size_bytes": "4624"
-        },
-        {
-            "domain": "widgets.in8.nopaperforms.com",
-            "category": "Unclassified Tracker",
-            "mode": "accept",
-            "load_time": "7.36",
-            "size_bytes": "1453"
-        },
-        {
-            "domain": "snap.licdn.com",
-            "category": "Marketing/Advertising",
-            "mode": "accept",
-            "load_time": "9.58",
-            "size_bytes": "18883"
-        },
-        {
-            "domain": "stats.g.doubleclick.net",
-            "category": "Marketing/Advertising",
-            "mode": "accept",
-            "load_time": "9.64",
+            "load_time": "0.66",
             "size_bytes": "0"
         },
         {
-            "domain": "analytics.google.com",
-            "category": "Analytics",
+            "domain": "m.media-amazon.com",
+            "category": "Unclassified Tracker",
             "mode": "accept",
-            "load_time": "9.64",
+            "load_time": "3.39",
             "size_bytes": "0"
         },
         {
-            "domain": "www.google.co.in",
+            "domain": "images-eu.ssl-images-amazon.com",
             "category": "Unclassified Tracker",
             "mode": "accept",
-            "load_time": "9.66",
-            "size_bytes": "42"
+            "load_time": "3.76",
+            "size_bytes": "25221"
+        },
+        {
+            "domain": "content-autofill.googleapis.com",
+            "category": "Functional",
+            "mode": "accept",
+            "load_time": "6.15",
+            "size_bytes": "45"
+        },
+        {
+            "domain": "d231gvmk20yd16.cloudfront.net",
+            "category": "Functional",
+            "mode": "accept",
+            "load_time": "6.47",
+            "size_bytes": "2"
+        },
+        {
+            "domain": "player.live-video.net",
+            "category": "Unclassified Tracker",
+            "mode": "accept",
+            "load_time": "6.47",
+            "size_bytes": "0"
+        },
+        {
+            "domain": "p47r3qkl5raepa5flsczs7khqq.appsync-realtime-api.eu-west-1.amazonaws.com",
+            "category": "Functional",
+            "mode": "accept",
+            "load_time": "6.84",
+            "size_bytes": "0"
+        },
+        {
+            "domain": "unagi-eu.amazon.com",
+            "category": "Unclassified Tracker",
+            "mode": "accept",
+            "load_time": "6.99",
+            "size_bytes": "22"
+        },
+        {
+            "domain": "p47r3qkl5raepa5flsczs7khqq.appsync-api.eu-west-1.amazonaws.com",
+            "category": "Functional",
+            "mode": "accept",
+            "load_time": "7.05",
+            "size_bytes": "0"
+        },
+        {
+            "domain": "d17dupcd3sd4s8.cloudfront.net",
+            "category": "Functional",
+            "mode": "accept",
+            "load_time": "7.05",
+            "size_bytes": "982"
         },
         {
             "domain": "optimizationguide-pa.googleapis.com",
             "category": "Functional",
             "mode": "accept",
-            "load_time": "9.75",
+            "load_time": "9.93",
             "size_bytes": "2567"
         },
         {
-            "domain": "px.ads.linkedin.com",
-            "category": "Marketing/Advertising",
+            "domain": "metrics.media-amazon.com",
+            "category": "Inferred: Performance (Analytics)",
             "mode": "accept",
-            "load_time": "9.99",
+            "load_time": "10.65",
             "size_bytes": "0"
         },
         {
-            "domain": "s.w.org",
+            "domain": "images-na.ssl-images-amazon.com",
             "category": "Unclassified Tracker",
             "mode": "accept",
-            "load_time": "14.71",
+            "load_time": "12.06",
+            "size_bytes": "3114"
+        },
+        {
+            "domain": "aax-eu.amazon-adsystem.com",
+            "category": "Marketing/Advertising",
+            "mode": "accept",
+            "load_time": "12.69",
+            "size_bytes": "0"
+        },
+        {
+            "domain": "c.amazon-adsystem.com",
+            "category": "Marketing/Advertising",
+            "mode": "accept",
+            "load_time": "12.89",
+            "size_bytes": "0"
+        },
+        {
+            "domain": "unagi-na.amazon.com",
+            "category": "Unclassified Tracker",
+            "mode": "accept",
+            "load_time": "14.23",
+            "size_bytes": "22"
+        },
+        {
+            "domain": "android.clients.google.com",
+            "category": "Unclassified Tracker",
+            "mode": "accept",
+            "load_time": "15.5",
             "size_bytes": "0"
         }
     ],
@@ -126,34 +147,46 @@
     "timeline_data": [
         {
             "time": "0s",
-            "requests": 3
+            "requests": 4
         },
         {
-            "time": "4s",
-            "requests": 3
+            "time": "3s",
+            "requests": 2
         },
         {
             "time": "6s",
-            "requests": 1
+            "requests": 5
         },
         {
             "time": "7s",
-            "requests": 3
+            "requests": 2
         },
         {
             "time": "9s",
-            "requests": 6
+            "requests": 1
+        },
+        {
+            "time": "10s",
+            "requests": 1
+        },
+        {
+            "time": "12s",
+            "requests": 3
         },
         {
             "time": "14s",
             "requests": 1
+        },
+        {
+            "time": "15s",
+            "requests": 1
         }
     ],
     "performance_metrics": {
-        "execution_time_s": 0.72,
-        "performance_tax_percent": 4.8,
-        "data_transfer_mb": 0.34,
-        "carbon_footprint_g": 0.2703,
+        "execution_time_s": 0.99,
+        "performance_tax_percent": 6.6,
+        "data_transfer_mb": 0.03,
+        "carbon_footprint_g": 0.0244,
         "battery_drain_score": "low"
     }
 }
