@@ -8,8 +8,6 @@ from seleniumwire import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-# --- LOCALLY DEFINED MODULES ---
-# Ensure these exist in your /engine directory
 try:
     from engine.classifier import identify
     from engine.consent_mgr import handle_consent
