@@ -1,46 +1,44 @@
 domain,category,mode,load_time,size_bytes
-clients2.google.com,Unclassified Tracker,reject,-0.25,0
-accounts.google.com,Unclassified Tracker,reject,-0.02,0
-www.google.com,Unclassified Tracker,reject,0.03,49
-g1.nyt.com,Marketing/Advertising,reject,1.87,6360
-static01.nyt.com,Marketing/Advertising,reject,1.93,90
-static.chartbeat.com,Marketing/Advertising,reject,2.69,0
-www.datadoghq-browser-agent.com,Spyware/Fingerprinting,reject,2.74,0
-rumcdn.geoedge.be,Inferred: Infrastructure (Functional),reject,2.79,0
-pagead2.googlesyndication.com,Marketing/Advertising,reject,2.79,34731
-warp.media.net,Unclassified Tracker,reject,2.85,197210
-c.amazon-adsystem.com,Marketing/Advertising,reject,2.85,0
-www.googletagmanager.com,Unclassified Tracker,reject,2.96,192824
-mab.chartbeat.com,Marketing/Advertising,reject,3.59,734
-hbx.media.net,Unclassified Tracker,reject,3.96,12146
-aax.amazon-adsystem.com,Marketing/Advertising,reject,4.17,180
-prebid.media.net,Unclassified Tracker,reject,4.52,0
-grid-bidder.criteo.com,Marketing/Advertising,reject,4.52,0
-htlb.casalemedia.com,Marketing/Advertising,reject,4.53,115
-tlx.3lift.com,Marketing/Advertising,reject,4.56,0
-rtb.openx.net,Marketing/Advertising,reject,4.57,53
-hbopenbid.pubmatic.com,Marketing/Advertising,reject,4.59,0
-fastlane.rubiconproject.com,Marketing/Advertising,reject,4.62,609
-cs.media.net,Unclassified Tracker,reject,4.71,14
-s.amazon-adsystem.com,Marketing/Advertising,reject,5.13,0
-vp.nyt.com,Marketing/Advertising,reject,5.15,10
-config.aps.amazon-adsystem.com,Marketing/Advertising,reject,6.16,531
-js-sec.indexww.com,Marketing/Advertising,reject,8.31,0
-nytimes-d.openx.net,Marketing/Advertising,reject,8.42,0
-eus.rubiconproject.com,Marketing/Advertising,reject,8.47,224
-ads.pubmatic.com,Marketing/Advertising,reject,8.47,7259
-eb2.3lift.com,Marketing/Advertising,reject,8.48,0
-pay.google.com,Unclassified Tracker,reject,8.77,0
-google.com,Unclassified Tracker,reject,9.5,223
-token.rubiconproject.com,Marketing/Advertising,reject,9.74,7
-a1.nyt.com,Marketing/Advertising,reject,9.74,65
-optimizationguide-pa.googleapis.com,Functional,reject,9.76,2567
-hbxlp.media.net,Unclassified Tracker,reject,10.08,43
-www.gstatic.com,Functional,reject,10.1,56430
-play.google.com,Unclassified Tracker,reject,11.6,131
-android.clients.google.com,Unclassified Tracker,reject,39.59,0
-ep1.adtrafficquality.google,Unclassified Tracker,reject,50.8,13475
-ca689fe36801c0166f42d02830072d0f.safeframe.googlesyndication.com,Marketing/Advertising,reject,50.9,3121
-ep2.adtrafficquality.google,Unclassified Tracker,reject,51.54,7609
-update.googleapis.com,Functional,reject,60.08,4448
-clientservices.googleapis.com,Functional,reject,62.84,22
+clients2.google.com,Unclassified Tracker,reject,-0.27,0
+accounts.google.com,Unclassified Tracker,reject,0.73,0
+www.google.com,Unclassified Tracker,reject,0.98,49
+static01.nyt.com,Marketing/Advertising,reject,4.15,90
+g1.nyt.com,Marketing/Advertising,reject,4.64,6360
+www.datadoghq-browser-agent.com,Spyware/Fingerprinting,reject,10.87,0
+optimizationguide-pa.googleapis.com,Functional,reject,11.36,2567
+www.googletagmanager.com,Unclassified Tracker,reject,11.37,192824
+pagead2.googlesyndication.com,Marketing/Advertising,reject,12.17,34736
+rumcdn.geoedge.be,Inferred: Infrastructure (Functional),reject,12.38,0
+warp.media.net,Unclassified Tracker,reject,13.32,197178
+c.amazon-adsystem.com,Marketing/Advertising,reject,13.89,0
+vp.nyt.com,Marketing/Advertising,reject,14.15,209
+aax.amazon-adsystem.com,Marketing/Advertising,reject,15.79,180
+hbx.media.net,Unclassified Tracker,reject,15.87,12144
+fastlane.rubiconproject.com,Marketing/Advertising,reject,16.67,609
+rtb.openx.net,Marketing/Advertising,reject,16.91,53
+htlb.casalemedia.com,Marketing/Advertising,reject,16.94,116
+grid-bidder.criteo.com,Marketing/Advertising,reject,17.18,0
+prebid.media.net,Unclassified Tracker,reject,17.84,0
+tlx.3lift.com,Marketing/Advertising,reject,18.05,0
+hbopenbid.pubmatic.com,Marketing/Advertising,reject,18.11,0
+s.amazon-adsystem.com,Marketing/Advertising,reject,18.89,0
+cs.media.net,Unclassified Tracker,reject,21.06,14
+nytimes-d.openx.net,Marketing/Advertising,reject,25.14,0
+js-sec.indexww.com,Marketing/Advertising,reject,25.23,0
+eb2.3lift.com,Marketing/Advertising,reject,25.39,0
+eus.rubiconproject.com,Marketing/Advertising,reject,25.63,224
+ads.pubmatic.com,Marketing/Advertising,reject,25.66,7259
+config.aps.amazon-adsystem.com,Marketing/Advertising,reject,25.7,531
+hbxlp.media.net,Unclassified Tracker,reject,27.15,43
+token.rubiconproject.com,Marketing/Advertising,reject,27.54,7
+pay.google.com,Unclassified Tracker,reject,35.51,0
+a1.nyt.com,Marketing/Advertising,reject,36.92,65
+google.com,Unclassified Tracker,reject,37.32,223
+www.gstatic.com,Functional,reject,38.43,56430
+play.google.com,Unclassified Tracker,reject,41.46,131
+android.clients.google.com,Unclassified Tracker,reject,56.58,0
+update.googleapis.com,Functional,reject,60.06,4477
+clientservices.googleapis.com,Functional,reject,63.0,22
+ep1.adtrafficquality.google,Unclassified Tracker,reject,68.11,13460
+14ac2be45ddd1515c09d86170d2faa36.safeframe.googlesyndication.com,Marketing/Advertising,reject,68.39,3121
+ep2.adtrafficquality.google,Unclassified Tracker,reject,69.04,7609

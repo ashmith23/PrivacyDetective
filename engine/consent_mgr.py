@@ -6,7 +6,7 @@ def handle_consent(driver, action="reject"):
     Handles cookie consent banners with a weighted priority approach.
     Now handles NYTimes-style anomalies where 'Reject All' exists alongside 'Save'.
     """
-    print(f"🚀 [CONSENT] Starting deep-scan for {action.upper()}...")
+    print(f" [CONSENT] Starting deep-scan for {action.upper()}...")
     
     # PHASE 1 Keywords
     primary_keywords = ["reject", "decline", "necessary", "refuse", "manage"] if action == "reject" \
@@ -74,23 +74,23 @@ def handle_consent(driver, action="reject"):
     first_hit = attempt_js_click([primary_keywords])
     
     if first_hit:
-        print(f"🎯 Step 1: Found and clicked '{action.upper()}' target.")
+        print(f" Step 1: Found and clicked '{action.upper()}' target.")
         
         # NYTimes specific: Second layer usually takes a moment to animate
         time.sleep(4) 
         
         # PHASE 2: PRIORITY-BASED CONFIRMATION
-        print("🔎 Step 2: Running Priority-Weighted scan (NYTimes Anomaly Check)...")
+        print(" Step 2: Running Priority-Weighted scan (NYTimes Anomaly Check)...")
         # Pass all 3 levels. JS will hunt for Prio 1 before even looking at Prio 2.
         second_hit = attempt_js_click([prio_1, prio_2, prio_3])
         
         if second_hit:
-            print("✅ Step 2: High-priority confirmation clicked!")
+            print(" Step 2: High-priority confirmation clicked!")
         else:
-            print("ℹ️ No secondary confirmation needed. Proceeding to audit.")
+            print("ℹ No secondary confirmation needed. Proceeding to audit.")
             
         time.sleep(2)
         return True
     
-    print("❌ [CONSENT] No matching banner detected.")
+    print(" [CONSENT] No matching banner detected.")
     return False

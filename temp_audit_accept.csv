@@ -1,21 +1,113 @@
 domain,category,mode,load_time,size_bytes
-clients2.google.com,Unclassified Tracker,accept,-0.25,0
-accounts.google.com,Unclassified Tracker,accept,0.01,0
-www.google.com,Unclassified Tracker,accept,0.03,49
-1c5c1ecf7303.e10058c8.ap-south-1.token.awswaf.com,Functional,accept,0.66,0
-m.media-amazon.com,Unclassified Tracker,accept,3.39,0
-images-eu.ssl-images-amazon.com,Unclassified Tracker,accept,3.76,25221
-content-autofill.googleapis.com,Functional,accept,6.15,45
-d231gvmk20yd16.cloudfront.net,Functional,accept,6.47,2
-player.live-video.net,Unclassified Tracker,accept,6.47,0
-p47r3qkl5raepa5flsczs7khqq.appsync-realtime-api.eu-west-1.amazonaws.com,Functional,accept,6.84,0
-unagi-eu.amazon.com,Unclassified Tracker,accept,6.99,22
-p47r3qkl5raepa5flsczs7khqq.appsync-api.eu-west-1.amazonaws.com,Functional,accept,7.05,0
-d17dupcd3sd4s8.cloudfront.net,Functional,accept,7.05,982
-optimizationguide-pa.googleapis.com,Functional,accept,9.93,2567
-metrics.media-amazon.com,Inferred: Performance (Analytics),accept,10.65,0
-images-na.ssl-images-amazon.com,Unclassified Tracker,accept,12.06,3114
-aax-eu.amazon-adsystem.com,Marketing/Advertising,accept,12.69,0
-c.amazon-adsystem.com,Marketing/Advertising,accept,12.89,0
-unagi-na.amazon.com,Unclassified Tracker,accept,14.23,22
-android.clients.google.com,Unclassified Tracker,accept,15.5,0
+clients2.google.com,Unclassified Tracker,accept,-0.26,0
+accounts.google.com,Unclassified Tracker,accept,0.06,0
+www.google.com,Unclassified Tracker,accept,0.29,49
+i.forbesimg.com,Unclassified Tracker,accept,1.01,148943
+cdn.ketchjs.com,Inferred: Infrastructure (Functional),accept,1.33,644
+global.ketchcdn.com,Inferred: Infrastructure (Functional),accept,2.31,1406
+cdn.speedcurve.com,Spyware/Fingerprinting,accept,2.66,11385
+config.aps.amazon-adsystem.com,Marketing/Advertising,accept,2.71,531
+content-autofill.googleapis.com,Functional,accept,3.09,36
+warp.media.net,Unclassified Tracker,accept,3.25,227084
+cdn.p-n.io,Inferred: Infrastructure (Functional),accept,3.33,0
+storage.googleapis.com,Functional,accept,3.68,2767
+vi.ml314.com,Unclassified Tracker,accept,3.92,0
+open-api.spot.im,Inferred: API/Backend (Functional),accept,4.26,155
+static.criteo.net,Marketing/Advertising,accept,4.63,0
+client.aps.amazon-adsystem.com,Marketing/Advertising,accept,4.63,0
+c.amazon-adsystem.com,Marketing/Advertising,accept,5.33,0
+aax.amazon-adsystem.com,Marketing/Advertising,accept,5.86,194
+securepubads.g.doubleclick.net,Marketing/Advertising,accept,5.93,34933
+cdn.adsafeprotected.com,Inferred: Infrastructure (Functional),accept,5.96,0
+www.googletagmanager.com,Unclassified Tracker,accept,6.74,150415
+specials-images.forbesimg.com,Inferred: Infrastructure (Functional),accept,6.89,37219
+s.amazon-adsystem.com,Marketing/Advertising,accept,7.04,0
+pxlrtpge-a.akamaihd.net,Functional,accept,7.69,8554
+rcp.rtpge.com,Unclassified Tracker,accept,8.64,16
+htlb.casalemedia.com,Marketing/Advertising,accept,9.41,116
+prebid-s2s.media.net,Unclassified Tracker,accept,9.6,791
+direct.adsrvr.org,Unclassified Tracker,accept,9.63,0
+pixel.adsafeprotected.com,Spyware/Fingerprinting,accept,9.68,0
+optimizationguide-pa.googleapis.com,Functional,accept,9.76,2567
+pagead2.googlesyndication.com,Marketing/Advertising,accept,10.39,0
+secure.quantserve.com,Marketing/Advertising,accept,10.8,0
+js.datadome.co,Unclassified Tracker,accept,10.96,0
+sb.scorecardresearch.com,Analytics,accept,11.01,0
+static.ads-twitter.com,Marketing/Advertising,accept,11.25,13436
+t.co,Marketing/Advertising,accept,11.9,43
+analytics.twitter.com,Analytics,accept,11.94,43
+analytics.google.com,Analytics,accept,12.24,0
+connect.facebook.net,Marketing/Advertising,accept,12.56,96657
+js-sec.indexww.com,Marketing/Advertising,accept,13.29,0
+cm.g.doubleclick.net,Marketing/Advertising,accept,13.86,48
+0cb134bc343d06594635d2c32f04a1dc.safeframe.googlesyndication.com,Marketing/Advertising,accept,13.86,3121
+pixel.quantserve.com,Spyware/Fingerprinting,accept,14.01,0
+pub.doubleverify.com,Unclassified Tracker,accept,14.44,0
+api-js.datadome.co,Unclassified Tracker,accept,14.57,231
+tpc.googlesyndication.com,Marketing/Advertising,accept,14.68,6269
+ml314.com,Unclassified Tracker,accept,14.78,0
+www.googleadservices.com,Marketing/Advertising,accept,14.94,69
+geo.captcha-delivery.com,Unclassified Tracker,accept,15.25,0
+cdn.doubleverify.com,Inferred: Infrastructure (Functional),accept,15.55,3506
+static.captcha-delivery.com,Inferred: Infrastructure (Functional),accept,15.76,0
+jsconfig.adsafeprotected.com,Unclassified Tracker,accept,15.84,0
+www.gstatic.com,Functional,accept,15.89,370760
+www.googletagservices.com,Unclassified Tracker,accept,16.02,98720
+forbes.blueconic.net,Unclassified Tracker,accept,16.12,40748
+rules.quantcount.com,Marketing/Advertising,accept,16.33,0
+tps.doubleverify.com,Unclassified Tracker,accept,16.44,0
+crb.kargo.com,Unclassified Tracker,accept,16.58,43
+dt.adsafeprotected.com,Unclassified Tracker,accept,16.97,43
+static.adsafeprotected.com,Inferred: Infrastructure (Functional),accept,17.04,0
+www.redditstatic.com,Marketing/Advertising,accept,17.16,18505
+googleads.g.doubleclick.net,Marketing/Advertising,accept,17.28,2179
+www.google.co.in,Unclassified Tracker,accept,17.34,42
+match.adsrvr.org,Unclassified Tracker,accept,17.46,0
+pixel-config.reddit.com,Spyware/Fingerprinting,accept,17.9,64
+ads.pubmatic.com,Marketing/Advertising,accept,17.94,3130
+dpm.demdex.net,Marketing/Advertising,accept,17.99,0
+oa.openxcdn.net,Marketing/Advertising,accept,18.37,7927
+tags.crwdcntrl.net,Unclassified Tracker,accept,18.53,0
+cdn.id5-sync.com,Inferred: Infrastructure (Functional),accept,18.56,0
+dmp.im-apps.net,Unclassified Tracker,accept,18.6,2225
+connectid.analytics.yahoo.com,Analytics,accept,18.63,8729
+oajs.openx.net,Marketing/Advertising,accept,18.82,0
+image6.pubmatic.com,Marketing/Advertising,accept,19.03,0
+bcp.crwdcntrl.net,Unclassified Tracker,accept,19.1,156
+sync6.im-apps.net,Unclassified Tracker,accept,19.12,70
+id5-sync.com,Unclassified Tracker,accept,19.52,0
+ups.analytics.yahoo.com,Analytics,accept,19.63,0
+tpsc-ae1.doubleverify.com,Unclassified Tracker,accept,20.06,0
+google-bidout-d.openx.net,Marketing/Advertising,accept,20.06,0
+cdn.mgaru.dev,Inferred: Infrastructure (Functional),accept,20.28,0
+cdn.prod.euid.eu,Inferred: Infrastructure (Functional),accept,20.34,0
+ident.mygaru.com,Unclassified Tracker,accept,21.19,197
+tracking.mygaru.com,Spyware/Fingerprinting,accept,21.21,0
+invstatic101.creativecdn.com,Inferred: Infrastructure (Functional),accept,21.7,2729
+fonts.gstatic.com,Functional,accept,21.73,40128
+hbx.media.net,Unclassified Tracker,accept,22.0,120
+esp.rtbhouse.com,Marketing/Advertising,accept,22.37,265
+alb.reddit.com,Marketing/Advertising,accept,23.06,42
+jadserve.postrelease.com,Unclassified Tracker,accept,23.17,0
+ps.eyeota.net,Unclassified Tracker,accept,24.96,0
+ib.adnxs.com,Marketing/Advertising,accept,25.0,43
+tps-dn-ae1.doubleverify.com,Unclassified Tracker,accept,25.31,0
+ut.pubmatic.com,Marketing/Advertising,accept,25.54,22
+pixel.rubiconproject.com,Spyware/Fingerprinting,accept,26.04,0
+hbxlp.media.net,Unclassified Tracker,accept,27.11,43
+navvy.media.net,Unclassified Tracker,accept,27.13,43
+match.sharethrough.com,Marketing/Advertising,accept,27.29,0
+stats.g.doubleclick.net,Marketing/Advertising,accept,27.41,0
+ssp-sync.criteo.com,Marketing/Advertising,accept,28.18,0
+cs.media.net,Unclassified Tracker,accept,29.17,14
+eb2.3lift.com,Marketing/Advertising,accept,29.26,0
+u.openx.net,Marketing/Advertising,accept,30.51,0
+static.chartbeat.com,Marketing/Advertising,accept,31.36,0
+ep1.adtrafficquality.google,Unclassified Tracker,accept,31.41,13456
+munchkin.marketo.net,Analytics,accept,31.43,746
+gumi.criteo.com,Marketing/Advertising,accept,31.45,0
+zndpq7uw2elr2st9z-forbesbi.siteintercept.qualtrics.com,Spyware/Fingerprinting,accept,31.46,0
+ep2.adtrafficquality.google,Unclassified Tracker,accept,31.82,7609
+siteintercept.qualtrics.com,Spyware/Fingerprinting,accept,31.94,0
+ping.chartbeat.net,Analytics,accept,32.25,43
+android.clients.google.com,Unclassified Tracker,accept,34.1,0
